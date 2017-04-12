@@ -3,7 +3,7 @@
 <div>
 <span style="font-family: inherit;"></span>
 <div class="innerText">
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Still Follows app (the "Service") operated by Angel Subirana ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Bobzon app (the "Service") operated by Angel Subirana ("us", "we", or "our").
 </div><br />
 <div class="innerText">
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
@@ -55,4 +55,4 @@ By continuing to access or use our Service after those revisions become effectiv
 If you have any questions about these Terms, please contact us.
 </div>
 <br />
-Last Edited on 2017-01-19</div>
+Last Edited on 2017-04-12</div>
