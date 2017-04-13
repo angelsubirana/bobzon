@@ -19,7 +19,7 @@ If you have the web address of an Amazon product or the asin code (the internal 
 
 3.- It will paste the url/asin from your device clipboard and search for the product information. If it is an ASIN, it will use the default Amazon store. It it is an url it will use the store in the url.
 
-4.- Once in the product view just choose the desired price and tap TRACK product. After that the product will be added to the tracking list.
+4.- Once in the product view, just choose the desired price and tap TRACK product. After that the product will be added to the tracking list.
 
 <img src="/img/howto/product-view_framed.png" alt="" title="" width="300" />
 
