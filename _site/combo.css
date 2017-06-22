@@ -534,14 +534,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-share { border-color: #146EB4; }
-  #share { background-color: #146EB4 !important; color: #f8f8f8; }
-  #share a { color: #f8f8f8; }
-  #share .sectiondivider { color: #146EB4; }
-
-  
-  
-  
   nav .p-amazonapp { border-color: #146EB4; }
   #amazonapp { background-color: #146EB4 !important; color: #f8f8f8; }
   #amazonapp a { color: #f8f8f8; }
@@ -554,6 +546,14 @@ html { box-sizing: border-box; }
   #safari { background-color: #146EB4 !important; color: #f8f8f8; }
   #safari a { color: #f8f8f8; }
   #safari .sectiondivider { color: #146EB4; }
+
+  
+  
+  
+  nav .p-share { border-color: #146EB4; }
+  #share { background-color: #146EB4 !important; color: #f8f8f8; }
+  #share a { color: #f8f8f8; }
+  #share .sectiondivider { color: #146EB4; }
 
   
   
