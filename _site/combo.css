@@ -542,6 +542,38 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-chrome { border-color: #146EB4; }
+  #chrome { background-color: #146EB4 !important; color: #f8f8f8; }
+  #chrome a { color: #f8f8f8; }
+  #chrome .sectiondivider { color: #146EB4; }
+
+  
+  
+  
+  nav .p-clipboard { border-color: #146EB4; }
+  #clipboard { background-color: #146EB4 !important; color: #f8f8f8; }
+  #clipboard a { color: #f8f8f8; }
+  #clipboard .sectiondivider { color: #146EB4; }
+
+  
+  
+  
+  nav .p-faqindex { border-color: #f8f8f8; }
+  #faqindex { background-color: #f8f8f8 !important; color: #111111; }
+  #faqindex a { color: #111111; }
+  #faqindex .sectiondivider { color: #f8f8f8; }
+
+  
+  
+  
+  nav .p-amazonapp { border-color: #146EB4; }
+  #amazonapp { background-color: #146EB4 !important; color: #f8f8f8; }
+  #amazonapp a { color: #f8f8f8; }
+  #amazonapp .sectiondivider { color: #146EB4; }
+
+  
+  
+  
   nav .p-safari { border-color: #146EB4; }
   #safari { background-color: #146EB4 !important; color: #f8f8f8; }
   #safari a { color: #f8f8f8; }

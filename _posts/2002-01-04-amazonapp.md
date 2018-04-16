@@ -2,7 +2,7 @@
 title: "Add products from the Amazon app"
 bg: mainblue
 color: white
-howto: ios
+howto: android
 ---
 
 # How to add products from the Amazon app?
@@ -13,16 +13,16 @@ If you prefer to browse Amazon by means of the official app, then follow this tu
 
 2.- Once in the product page, scroll down until it appears the "SHARE" button and tap it. Here you will find the "Add Product to Bobzon" button. Sometimes you will need to scroll to the right in order to see it.
 
-If the "Add Product to Bobzon" option is not available, then follow the instructions of [How to enable the Share button?](./faq#share). 
+If the "Add Product to Bobzon" option is not available, then follow the instructions of [How to enable the Share button?](./faq-android#share). 
 
-<img src="/img/howto/add-from-app-s1_framed.png" alt="" title="" width="300" />
+<img src="/img/howto/android/add-from-app-s1_framed.png" alt="" title="" width="300" />
 
-<img src="/img/howto/add-from-app-s2_framed.png" alt="" title="" width="300" />
+<img src="/img/howto/android/add-from-app-s2_framed.png" alt="" title="" width="300" />
 
 3.- Tap the "Add Product to Bobzon" button and it will automatically open Bobzon app and search for the product information.
 
 4.- Once in the product view, just choose the desired price and tap TRACK product. After that the product will be added to the tracking list.
 
-<img src="/img/howto/product-view_framed.png" alt="" title="" width="300" />
+<img src="/img/howto/android/product-view_framed.png" alt="" title="" width="300" />
 
-<img src="/img/howto/tracking-view_framed.png" alt="" title="" width="300" />
+<img src="/img/howto/android/tracking-view_framed.png" alt="" title="" width="300" />

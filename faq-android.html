@@ -22,7 +22,7 @@
   <div id="main">
 
     {% for page in site.posts reversed %}
-      {% if page.howto == 'ios' %}
+      {% if page.howto == 'android' %}
       	  {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
 	      <div id="{{id}}" class="section p-{{id}}">
     	    <div class="container {{ page.style }}">

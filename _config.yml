@@ -19,6 +19,7 @@ keywords:    "bobzon, amazon, manager, tracker, follow, drop, price, cheap, disc
 description: "Get always the best price in Amazon with Bobzon Price Tracker! Download it FREE NOW!"
 google_analytics_key: UA-25289053-11 ## put YOUR key here to enable tracking! (blank to disable)
 appstore_link: "https://itunes.apple.com/app/bobzon-for-amazon/id1206419148?ct=web&mt=8&at=1000lom5"
+googleplay_link: "https://play.google.com/store/apps/details?id=com.bobgoo.bobzon"
 
 url: https://bobzon.bobgoo.com
 enforce_ssl: bobzon.bobgoo.com
