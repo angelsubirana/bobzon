@@ -1,6 +1,6 @@
 
 
-All Rights Reserved. © 2017 [Angel Subirana](https://www.bobgoo.com)
+All Rights Reserved. © 2017-2018 [Angel Subirana](https://www.bobgoo.com)
 
 <a href="https://twitter.com/BobzonApp"><span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
@@ -15,5 +15,10 @@ All Rights Reserved. © 2017 [Angel Subirana](https://www.bobgoo.com)
 <span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-apple fa-stack-1x" style="color: black;"></i>
+</span></a>
+<a href="{{ site.googleplay_link }}">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-android fa-stack-1x" style="color: black;"></i>
 </span></a><br>
 [Privacy policy](https://www.bobgoo.com/privacy.html)
